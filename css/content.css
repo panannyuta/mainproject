@@ -1,0 +1,18 @@
+#myhead{
+    color: rgb(0, 0, 0);
+    font-size: 36px;
+    }
+    
+    /* if we have id , we use # */
+    
+    .mytext{
+        background: rgb(255, 255, 255);
+    }
+    
+    a{
+        text-decoration: none;
+    }
+    
+    .sidebar{
+        background: #b48787;
+    }
